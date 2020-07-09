@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Ada",
+        "Surname": "Sayer",
+        "Number": 10,
+        "Gender": "Female",
+        "School": {
+            "Name": "ADU",
+            "City": "Aydın",
+            "Department": "MIS",
+            "Class": 1
+        }
+    },
+    {
+        "Name": "Ege",
+        "Surname": "Can",
+        "Number": 17,
+        "Gender": "Male",
+        "School": {
+            "Name": "MSKU",
+            "City": "Mugla",
+            "Department": "TIP",
+            "Class": 2
+        }
+    },
+    {
+        "Name": "Elif",
+        "Surname": "Deniz",
+        "Number": 24,
+        "Gender": "Female",
+        "School": {
+            "Name": "AU",
+            "City": "Antalya",
+            "Department": "MIS",
+            "Class": 3
+        }
+    },
+    {
+        "Name": "Yaman",
+        "Surname": "Yıldız",
+        "Number": 9,
+        "Gender": "Male",
+        "School": {
+            "Name": "PAU",
+            "City": "Denizli",
+            "Department": "TIP",
+            "Class": 2
+        }
+    }
+]
